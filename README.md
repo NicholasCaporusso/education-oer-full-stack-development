@@ -1,7 +1,15 @@
 # Open Educational Resources for Full-stack development 
 
+## Dev only
+Link template:
+- [TITLE](LINK 'TITLE') 
+
+## Table of contents
+- [Additional resources](#additional-resources)
+
+
 ## Modules
-### 00 - Start here
+### 00 - Welcome and useful material (start here)
 
 #### Full-Stack Development roadmaps
 - [Full-stack developer roadmap](https://roadmap.sh/full-stack 'Full-stack developer roadmap') 
@@ -22,10 +30,7 @@
 - [*[Bro Code]*](https://www.youtube.com/@BroCodez 'Bro Code')
 - [*[Web Dev Simplified]*](https://www.youtube.com/c/WebDevSimplified 'Web Dev Simplified')
 - [*[SuperSimpleDev]*](https://www.youtube.com/@SuperSimpleDev 'SuperSimpleDev')
-- [*[Programming with Mosh]*](https://www.youtube.com/c/programmingwithmosh 'Programming with Mosh') 
-- [TITLE](LINK 'TITLE') 
-- [TITLE](LINK 'TITLE') 
-- [TITLE](LINK 'TITLE')
+- [*[Programming with Mosh]*](https://www.youtube.com/c/programmingwithmosh 'Programming with Mosh')
  
 
 ### Complete courses on YouTube:
