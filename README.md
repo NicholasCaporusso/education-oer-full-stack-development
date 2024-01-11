@@ -73,6 +73,8 @@ In this section, you will find a list of all the resources cited in the reposito
 ### Books
 #### Free books
 - Eloquent JavaScript https://eloquentjavascript.net/
+- https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1004&context=oer
+- https://knightscholar.geneseo.edu/cgi/viewcontent.cgi?article=1016&context=oer-ost
  
 #### Books available for purchase
 - [paid] 
