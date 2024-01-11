@@ -8,16 +8,7 @@ A compiled list of resources to succeed in full-stack development.
   1.1. [Introduction to full-stack development](#introduction-to-full-stack-development)  
   1.2. [HTML and CSS refresher](#html-and-css-refresher)  
   1.3. [Introduction to JavaScript](#introduction-to-javascript)  
-  1.4. [xxxxxxx](#xxxxxxx)  
-  1.4. [xxxxxxx](#xxxxxxx)  
-  1.4. [xxxxxxx](#xxxxxxx)  
-  1.4. [xxxxxxx](#xxxxxxx)  
-  1.4. [xxxxxxx](#xxxxxxx)  
-  1.4. [xxxxxxx](#xxxxxxx)  
-  1.4. [xxxxxxx](#xxxxxxx)  
-  1.4. [xxxxxxx](#xxxxxxx)  
-  1.4. [xxxxxxx](#xxxxxxx)  
-  1.4. [xxxxxxx](#xxxxxxx)  
+  1.4. [TBD](#TBD)  
 2. [Resources](#resources)
 
 ---
@@ -29,7 +20,8 @@ This repository is a living document that I am creating for the course "ASE 220 
 
 ### 01 - Introduction to full-stack development
 - https://www.markdownguide.org/cheat-sheet/
-
+- https://github.com/workshopper/how-to-markdown?tab=readme-ov-file
+- https://superuser.com/questions/586177/how-to-use-markdown-in-notepad
 
 ### 02 - HTML and CSS refresher
 
@@ -149,12 +141,3 @@ In this section, you will find a list of all the resources cited in the reposito
 
 
 
-
----
-## Repo developers only
-This section contains information and tools for the contributors of this repository only. Feel free to skip or ignore it if you are not contributing to this repository.
-
-Link template:
-- [TITLE](LINK 'TITLE') 
-### TODO:
-- add codeacademy https://www.codecademy.com/student-center
