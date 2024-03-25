@@ -12,8 +12,8 @@ A compiled list of resources to succeed in full-stack development, developed by 
   6. [Working with RESTful APIs](modules/06-working-with-restful-apis.md)   
   7. [Fundamentals of NodeJS](modules/07-fundamentals-of-nodejs.md)   
   8. [Routing with Express](modules/08-routing-with-express.md)   
-  9. [MongoDB](#mongodb)  
-  10. [Authentication and permissions](#authentication-and-permissions)   
+  9. [MongoDB](modules/09-mongodb.md) 
+  10. [Authentication and permissions](modules/10-authentication-and-permissions.md)  
 - [Additional resources](#additional-resources)
 
 ---
