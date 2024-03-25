@@ -4,7 +4,7 @@ A compiled list of resources to succeed in full-stack development, developed by 
 
 ## Table of contents
 - [Modules](#modules)  
-  1. [Introduction to full-stack development](#introduction-to-full-stack-development)  
+  1. [Introduction to full-stack development](#modules/01-introduction-to-full-stack-development.md)  
   2. [HTML and CSS refresher](#html-and-css-refresher)  
   3. [Introduction to JavaScript](#introduction-to-javascript)  
   4. [Advanced JavaScript](#advanced-javascript)  
