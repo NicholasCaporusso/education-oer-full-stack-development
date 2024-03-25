@@ -1,6 +1,6 @@
 An Open Educational Resource for learning full-stack development 
 -----------------------------------------------------
-A compiled list of resources to succeed in full-stack development, developed by [Nicholas Caporusso] (https://www.cprnhl.com), Associate Professor of Computer Science at [Northern Kentucky University] (https://www.nku.edu/).
+A compiled list of resources to succeed in full-stack development, developed by [Nicholas Caporusso](https://www.cprnhl.com), Associate Professor of Computer Science at [Northern Kentucky University](https://www.nku.edu/).
 
 ## Table of contents
 - [Modules](#modules)  
